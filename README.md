@@ -2,8 +2,10 @@ install requirements.txt
 
 Download model through my huggingface for this use bellow commands
 
-""" git lfs install """
-""" git clone https://huggingface.co/GharudxD/faster-rcnn-for-invoice """
+```
+git lfs install
+git clone https://huggingface.co/GharudxD/faster-rcnn-for-invoice
+```
 
 Add path in config path in belllow variables
 TRAIN_DIR
